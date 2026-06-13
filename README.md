@@ -1,5 +1,14 @@
 # 💫 About Me:
-I am Bhumeshwar Katre, a Software Developer specializing in Python automation, AI-powered applications, data engineering, and trading systems. I build production-ready solutions ranging from lead generation platforms, content automation systems, web scrapers, and cloud-based business tools to algorithmic trading bots, MT5 Expert Advisors, and full-stack web applications. My focus is on solving real-world business problems through automation, scalable architecture, and data-driven decision making.
+
+I am Bhumeshwar Katre, a Software Developer and Automation Engineer specializing in Python-based automation, AI-powered applications, data analytics, web scraping, and algorithmic trading systems. I have experience building production-ready solutions including lead generation platforms, content automation systems, cloud-based business software, MT5 trading bots, and scalable data-driven applications. Passionate about solving real-world problems through automation, intelligent workflows, and modern software engineering practices.
+
+Backend & Core Languages : Python, JavaScript, SQL, C, MQL5, Pine Script
+Frameworks & Libraries : Streamlit, FastAPI, Flask, Node.js, Playwright, Puppeteer, Pandas, NumPy
+Databases : PostgreSQL, SQLite, Supabase
+Automation & Scraping : Playwright, Puppeteer, Selenium, BeautifulSoup, SMTP Automation, Google Sheets API
+Cloud & DevOps : Railway, Git/GitHub, Docker, Streamlit Cloud, VPS Deployment
+Data & Analytics : Power BI, Looker Studio, Data Visualization, Business Intelligence, Machine Learning
+Trading & Quant : MetaTrader 5 (MT5), MQL5 Expert Advisors, Pine Script, Algorithmic Trading, Backtesting Systems
 
 
 ## 🌐 Socials:

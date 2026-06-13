@@ -1,14 +1,6 @@
 # 💫 About Me:
 
-I am Bhumeshwar Katre, a Software Developer and Automation Engineer specializing in Python-based automation, AI-powered applications, data analytics, web scraping, and algorithmic trading systems. I have experience building production-ready solutions including lead generation platforms, content automation systems, cloud-based business software, MT5 trading bots, and scalable data-driven applications. Passionate about solving real-world problems through automation, intelligent workflows, and modern software engineering practices.
-
-Backend & Core Languages : Python, JavaScript, SQL, C, MQL5, Pine Script
-Frameworks & Libraries : Streamlit, FastAPI, Flask, Node.js, Playwright, Puppeteer, Pandas, NumPy
-Databases : PostgreSQL, SQLite, Supabase
-Automation & Scraping : Playwright, Puppeteer, Selenium, BeautifulSoup, SMTP Automation, Google Sheets API
-Cloud & DevOps : Railway, Git/GitHub, Docker, Streamlit Cloud, VPS Deployment
-Data & Analytics : Power BI, Looker Studio, Data Visualization, Business Intelligence, Machine Learning
-Trading & Quant : MetaTrader 5 (MT5), MQL5 Expert Advisors, Pine Script, Algorithmic Trading, Backtesting Systems
+I am Bhumeshwar Katre, a Software Developer and Automation Engineer specializing in Python-based automation, AI-powered applications, data analytics, web scraping, and algorithmic trading systems. I have experience building production-ready solutions including lead generation platforms, content automation systems, cloud-based business software, MT5 trading bots, and scalable data-driven applications. Passionate about solving real-world problems through automation, intelligent workflows, and modern software engineering practices.<br><br>Backend & Core Languages : Python, JavaScript, SQL, C, MQL5, Pine Script<br><br>Frameworks & Libraries : Streamlit, FastAPI, Flask, Node.js, Playwright, Puppeteer, Pandas, NumPy<br><br>Databases : PostgreSQL, SQLite, Supabase<br><br>Automation & Scraping : Playwright, Puppeteer, Selenium, BeautifulSoup, SMTP Automation, Google Sheets API<br><br>Cloud & DevOps : Railway, Git/GitHub, Docker, Streamlit Cloud, VPS Deployment<br><br>Data & Analytics : Power BI, Looker Studio, Data Visualization, Business Intelligence, Machine Learning<br><br>Trading & Quant : MetaTrader 5 (MT5), MQL5 Expert Advisors, Pine Script, Algorithmic Trading, Backtesting Systems
 
 
 ## 🌐 Socials:
